@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juice810
-- 👀 I’m interested in ...Mobbile Applications
+- 👀 I’m interested in ...Mobile Applications
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...mobile Projects
 - 📫 How to reach me ... @flizzlegothejuice on IG
 
 <!---
